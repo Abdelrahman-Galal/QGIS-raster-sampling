@@ -13,6 +13,6 @@ python script.py
        --qgis_path "C:/Program Files/QGIS 3.28.6/app/qgis-ltr" ^
        --vector_files "D:/path_to_shape_files/*.shp" ^
        --raster_file "D:/path_to_raster_file/*.tif" ^
-	   --output_files "D:/path_to_output_optional/output" ^
-	   --log_files "D:/path_to_logs_optional/logs"
+       --output_files "D:/path_to_output_optional/output" ^
+       --log_files "D:/path_to_logs_optional/logs"
 ```
